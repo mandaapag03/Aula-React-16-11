@@ -1,0 +1,24 @@
+.container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+}
+
+.title-login{
+    
+}
+
+.psw-password{
+    
+}
+
+.btn-entry{
+    
+}
